@@ -1,0 +1,32 @@
+h2{
+    color: red;
+}
+
+body{
+    background-color: #cbe3fb;
+    color: black;
+    font-family: Roboto;
+    text-align: center;
+    font-size: larger;
+    margin:3%;
+}
+
+header{
+    border-bottom: 1px solid grey;
+}
+
+footer{
+    border-top: 1px solid grey;
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
+
+.texto-inglês{
+    font-style: italic;
+}
+
+.imagem-principal{
+    width: 50%;
+}
